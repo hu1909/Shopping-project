@@ -1,5 +1,3 @@
-package Shopping_project;
-
 import java.util.ArrayList;
 
 public class Shop_owner extends Person{

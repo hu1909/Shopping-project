@@ -1,5 +1,3 @@
-package Shopping_project;
-
 public class Person {
     private String Name;
     private String Phone_number;

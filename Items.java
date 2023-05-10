@@ -1,5 +1,3 @@
-package Shopping_project;
-
 public class Items {
     private String item_name;
     private String description;

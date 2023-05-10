@@ -1,6 +1,5 @@
-package Shopping_project;
-
 import java.util.ArrayList;
+
 
 public class Customer extends Person{
     private String payment_method;
